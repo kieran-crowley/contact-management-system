@@ -1,0 +1,23 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 1rem;
+  padding: 0;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+
+#add-contact-form {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+
+#contacts-container {
+  display: table-row;
+}
