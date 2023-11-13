@@ -1,6 +1,9 @@
 # contact-management-system
 
-Device may require mySQL. 
+uses very simple tech, html, css, node, javascript and some jquery and SQL, this allowed me to get alot done in a short period of time. although far from perfect. given more time i would focus more on production level code. error handling and error checkling along with better looks and accessability and user experiance.
+
+installationL
+clone from github,npm i, npm run start.
 
 TASK:
 
